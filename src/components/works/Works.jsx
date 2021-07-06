@@ -33,6 +33,7 @@ export default function Works() {
               <div className="right">
                 <img
                   src={d.img}
+                  alt=""
                 />
               </div>
             </div>
