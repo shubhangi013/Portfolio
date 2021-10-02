@@ -18,11 +18,6 @@ export default function Intro() {
           <h3>
             I'm a <span ref={textRef}></span>
           </h3>
-
-  
-         <p>I</p>
-      
-          
         </div>
       </div>
     </div>
